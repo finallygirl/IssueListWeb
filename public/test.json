@@ -1,0 +1,37 @@
+{
+    "list": [
+        {
+            "imgUrl": "https://p1.music.126.net/R4ZP3AJ9xV0vvw8LX7AbMA==/109951163860425334.jpg",
+            "trackUrl": "01.m4a",
+            "currAlbum": "绿色",
+            "currTrackName": "陈雪凝 - 绿色",
+            "colors": {
+                "bgColor": "bg-green",
+                "barColor": "bar-green",
+                "timeColor": "time-green"
+            }
+        },
+        {
+            "imgUrl": "https://p3fx.kgimg.com/stdmusic/240/20170728/20170728122746411503.jpg",
+            "trackUrl": "02.mp3",
+            "currAlbum": "千里之外",
+            "currTrackName": "周杰伦 - 千里之外",
+            "colors": {
+                "bgColor": "bg-red",
+                "barColor": "bar-red",
+                "timeColor": "time-red"
+            }
+        },
+        {
+            "imgUrl": "https://p3fx.kgimg.com/stdmusic/240/20220119/20220119174841229024.jpg",
+            "trackUrl": "03.mp3",
+            "currAlbum": "好一点",
+            "currTrackName": "小蓝背心 - 好一点",
+            "colors": {
+                "bgColor": "bg-blue",
+                "barColor": "bar-blue",
+                "timeColor": "time-blue"
+            }
+        }
+    ]
+}
